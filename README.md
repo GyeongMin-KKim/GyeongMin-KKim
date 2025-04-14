@@ -1,4 +1,4 @@
-## Hi there 👋
+## **Hi there 👋**
 hihi i am gyeongmin
 
 <!--
